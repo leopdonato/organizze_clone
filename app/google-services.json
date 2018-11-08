@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "40540179849",
+    "firebase_url": "https://organizze-fd603.firebaseio.com",
+    "project_id": "organizze-fd603",
+    "storage_bucket": "organizze-fd603.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40540179849:android:a8c9a7e9ad85be70",
+        "android_client_info": {
+          "package_name": "com.example.leodonato.organizze"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "40540179849-nls3hrfr4v01e2llo4i5srd48iibum5p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.leodonato.organizze",
+            "certificate_hash": "0cd330fd2dba7ab05771e2bf1e2c9a0a506919eb"
+          }
+        },
+        {
+          "client_id": "40540179849-qtud8cgjh4b1bool3k3lubn6582kiknb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAN2cni53p81fZpnJA-dzLqG-dJ4UfFKkg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "40540179849-qtud8cgjh4b1bool3k3lubn6582kiknb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
