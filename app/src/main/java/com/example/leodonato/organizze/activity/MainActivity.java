@@ -1,10 +1,11 @@
-package com.example.leodonato.organizze;
+package com.example.leodonato.organizze.activity;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 
+import com.example.leodonato.organizze.R;
 import com.example.leodonato.organizze.activity.CadastroActivity;
 import com.example.leodonato.organizze.activity.LoginActivity;
 import com.heinrichreimersoftware.materialintro.app.IntroActivity;
